@@ -49,7 +49,7 @@ namespace Unity.CreateWithCode.Gameplay
       //Override all the UI function to give a new name and display what it is currently transporting
       public override string GetName()
       {
-         return "Transporter";
+         return "Transporter Unit";
       }
 
       public override string GetData()
