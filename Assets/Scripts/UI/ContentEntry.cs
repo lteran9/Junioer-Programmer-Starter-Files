@@ -3,8 +3,11 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ContentEntry : MonoBehaviour
+namespace Unity.CreateWithCode.UI
 {
-    public Image Icone;
-    public Text Count;
+   public class ContentEntry : MonoBehaviour
+   {
+      public Image Icone;
+      public Text Count;
+   }
 }

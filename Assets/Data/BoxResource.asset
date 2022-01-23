@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4cbe7725c3046414b9ffa46e64705f7b, type: 3}
+  m_Script: {fileID: 11500000, guid: 47ae7babb2507486885cf09140f52335, type: 3}
   m_Name: BoxResource
   m_EditorClassIdentifier: 
   Name: Money
