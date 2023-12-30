@@ -7,6 +7,7 @@ namespace Unity.CreateWithCode
 {
    public class GameManager : MonoBehaviour
    {
+      // Auto-implemented property
       public static GameManager instance { get; private set; }
 
       public Color teamColor;

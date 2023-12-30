@@ -9,8 +9,7 @@ namespace Unity.CreateWithCode.Gameplay
    /// Base class for building on the map that hold a Resource inventory and that can be interacted with by Unit.
    /// This Base class handle modifying the inventory of resources.
    /// </summary>
-   public abstract class Building : MonoBehaviour,
-       UIMainScene.IUIInfoContent
+   public abstract class Building : MonoBehaviour, UIMainScene.IUIInfoContent
    {
       //need to be serializable for the save system, so maybe added the attribute just when doing the save system
       [System.Serializable]
